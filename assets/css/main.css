@@ -68,6 +68,12 @@ h1 {
   font-family: var(--font-primary);  
 }
 
+.col-pc {
+  height: auto;
+  width: 400px;
+  align-items: stretch;
+} 
+
 /*--------------------------------------------------------------
 # Sections & Section Header
 --------------------------------------------------------------*/
